@@ -1,0 +1,41 @@
+55918c24e000-55918c259000 r--p 00000000 00:8c 56274382                   /home/jack/lab03_pub/chals
+55918c259000-55918c264000 r-xp 0000b000 00:8c 56274382                   /home/jack/lab03_pub/chals <--
+55918c264000-55918c265000 r--p 00016000 00:8c 56274382                   /home/jack/lab03_pub/chals
+55918c265000-55918c267000 r--p 00016000 00:8c 56274382                   /home/jack/lab03_pub/chals
+55918c267000-55918c268000 rw-p 00018000 00:8c 56274382                   /home/jack/lab03_pub/chals
+7fe064372000-7fe064375000 rw-p 00000000 00:00 0 
+7fe064375000-7fe064378000 r--p 00000000 fe:01 1311786                    /usr/lib/x86_64-linux-gnu/liblzma.so.5.2.5
+7fe064378000-7fe064393000 r-xp 00003000 fe:01 1311786                    /usr/lib/x86_64-linux-gnu/liblzma.so.5.2.5
+7fe064393000-7fe06439e000 r--p 0001e000 fe:01 1311786                    /usr/lib/x86_64-linux-gnu/liblzma.so.5.2.5
+7fe06439e000-7fe06439f000 r--p 00028000 fe:01 1311786                    /usr/lib/x86_64-linux-gnu/liblzma.so.5.2.5
+7fe06439f000-7fe0643a0000 rw-p 00029000 fe:01 1311786                    /usr/lib/x86_64-linux-gnu/liblzma.so.5.2.5
+7fe0643a0000-7fe0643a2000 rw-p 00000000 00:00 0 
+7fe0643a2000-7fe0643a4000 r--p 00000000 fe:01 2098008                    /usr/lib/x86_64-linux-gnu/libunwind-x86_64.so.8.0.1
+7fe0643a4000-7fe0643b0000 r-xp 00002000 fe:01 2098008                    /usr/lib/x86_64-linux-gnu/libunwind-x86_64.so.8.0.1
+7fe0643b0000-7fe0643b2000 r--p 0000e000 fe:01 2098008                    /usr/lib/x86_64-linux-gnu/libunwind-x86_64.so.8.0.1
+7fe0643b2000-7fe0643b3000 ---p 00010000 fe:01 2098008                    /usr/lib/x86_64-linux-gnu/libunwind-x86_64.so.8.0.1
+7fe0643b3000-7fe0643b4000 r--p 00010000 fe:01 2098008                    /usr/lib/x86_64-linux-gnu/libunwind-x86_64.so.8.0.1
+7fe0643b4000-7fe0643b5000 rw-p 00011000 fe:01 2098008                    /usr/lib/x86_64-linux-gnu/libunwind-x86_64.so.8.0.1
+7fe0643b5000-7fe0643bf000 rw-p 00000000 00:00 0 
+7fe0643bf000-7fe0643c1000 r--p 00000000 fe:01 2098009                    /usr/lib/x86_64-linux-gnu/libunwind.so.8.0.1
+7fe0643c1000-7fe0643cb000 r-xp 00002000 fe:01 2098009                    /usr/lib/x86_64-linux-gnu/libunwind.so.8.0.1
+7fe0643cb000-7fe0643ce000 r--p 0000c000 fe:01 2098009                    /usr/lib/x86_64-linux-gnu/libunwind.so.8.0.1
+7fe0643ce000-7fe0643cf000 r--p 0000e000 fe:01 2098009                    /usr/lib/x86_64-linux-gnu/libunwind.so.8.0.1
+7fe0643cf000-7fe0643d0000 rw-p 0000f000 fe:01 2098009                    /usr/lib/x86_64-linux-gnu/libunwind.so.8.0.1
+7fe0643d0000-7fe0643da000 rw-p 00000000 00:00 0 
+7fe0643da000-7fe064402000 r--p 00000000 fe:01 1311735                    /usr/lib/x86_64-linux-gnu/libc.so.6
+7fe064402000-7fe064597000 r-xp 00028000 fe:01 1311735                    /usr/lib/x86_64-linux-gnu/libc.so.6
+7fe064597000-7fe0645ef000 r--p 001bd000 fe:01 1311735                    /usr/lib/x86_64-linux-gnu/libc.so.6
+7fe0645ef000-7fe0645f3000 r--p 00214000 fe:01 1311735                    /usr/lib/x86_64-linux-gnu/libc.so.6
+7fe0645f3000-7fe0645f5000 rw-p 00218000 fe:01 1311735                    /usr/lib/x86_64-linux-gnu/libc.so.6
+7fe0645f5000-7fe064602000 rw-p 00000000 00:00 0 
+7fe064607000-7fe064617000 r--p 00000000 00:8c 56274379                   /home/jack/lab03_pub/libpoem.so
+7fe064617000-7fe064629000 r-xp 00010000 00:8c 56274379                   /home/jack/lab03_pub/libpoem.so
+7fe064629000-7fe064638000 r--p 00022000 00:8c 56274379                   /home/jack/lab03_pub/libpoem.so
+7fe064638000-7fe064639000 r--p 00030000 00:8c 56274379                   /home/jack/lab03_pub/libpoem.so
+7fe064639000-7fe06463a000 rw-p 00031000 00:8c 56274379                   /home/jack/lab03_pub/libpoem.so
+7fe06463a000-7fe06463b000 r--p 00000000 00:8c 56304000                   /home/jack/lab03_pub/libsolver.so
+7fe06463b000-7fe06463c000 r-xp 00001000 00:8c 56304000                   /home/jack/lab03_pub/libsolver.so <--
+
+
+7fe06463b000-7fe06463c000 | 55918c259000-55918c264000
